@@ -1,0 +1,9 @@
+/* styles */
+body {
+    line-height: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    object-fit: cover;
+}
